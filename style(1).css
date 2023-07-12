@@ -1,0 +1,18 @@
+.header .logo-img{
+    display: inline;
+}
+.header-text li{
+    list-style-type: none;
+    display: inline;
+    
+}
+.header{
+    display: inline;
+}
+.header-text {
+    display: inline;
+}
+.header-text{
+    margin:20px 30px 40 px;
+}
+
